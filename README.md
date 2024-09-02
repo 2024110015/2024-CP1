@@ -5,3 +5,7 @@
 #한국공학대학교 #tukorea
 
 1주차 Hello World 실습
+
+|command|description|
+|---|---|
+|1|Hello World|
