@@ -6,6 +6,6 @@
 
 1주차 Hello World 실습
 
-|command|description|
+|주차|활동내용|
 |---|---|
-|1|Hello World|
+|1주차|Hello World|
