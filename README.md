@@ -9,3 +9,6 @@
 |주차|활동내용|
 |---|---|
 |1주차|Hello World|
+
+
+tutorial/07.pdb.ipynb
